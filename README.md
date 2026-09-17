@@ -6,6 +6,10 @@ This project uses **Microsoft Excel** to clean, analyse, and visualise customer 
 
 The objective was to explore **customer demographics and purchasing behaviour** and present the findings through an interactive Excel dashboard.
 
+### Dashboard
+
+![Bike Sales Dashboard](images/Dashboard_Demonstration.gif)
+
 The project demonstrates practical skills in:
 
 * Data cleaning and transformation
@@ -33,7 +37,7 @@ The analysis aims to answer questions such as:
 
 ## 🗂️ Dataset
 
-**Source:** [Bike Sales in Europe — Kaggle](https://www.kaggle.com/code/sadiqshah/bike-store-sales-in-europe)
+**Source:** [Bike Sales in Europe — Kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe/data)
 
 The dataset contains information about **bike buyers and their demographic characteristics**, including:
 
@@ -54,7 +58,7 @@ The dataset contains information about **bike buyers and their demographic chara
 
 The project was inspired by **Alex The Analyst's Excel tutorial**:
 
-[Alex The Analyst — Excel Tutorial](https://www.youtube.com/@AlexTheAnalyst)
+[Alex The Analyst — Excel Tutorial](https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=27)
 
 ---
 
@@ -92,8 +96,8 @@ The original `Marital Status` column used abbreviated values:
 
 This was changed to make the dataset easier to interpret and present.
 
-![Changing marital status](images/marital-status.png)
-
+![Changing marital status](images/marital-status1.png)
+![Changing marital status](images/marital-status2.png)
 ---
 
 ## 3. Standardise Gender
@@ -168,10 +172,6 @@ The dashboard allows users to explore the data interactively using **Excel slice
 This allows the dashboard charts to update simultaneously when a filter is selected.
 
 ![Inserting slicers](images/slicers.png)
-
-### Dashboard
-
-![Bike Sales Dashboard](images/dashboard.png)
 
 ---
 
