@@ -98,6 +98,7 @@ This was changed to make the dataset easier to interpret and present.
 
 ![Changing marital status](images/marital-status1.png)
 ![Changing marital status](images/marital-status2.png)
+
 ---
 
 ## 3. Standardise Gender
