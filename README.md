@@ -8,7 +8,10 @@ The objective was to explore **customer demographics and purchasing behaviour** 
 
 ### Dashboard
 
-![Bike Sales Dashboard](images/Dashboard_Demonstration.gif)
+<p align="center">
+  <img src="Dashboard_Demonstration.gif" alt="Bike Sales Dashboard" width="700">
+</p>
+
 
 The project demonstrates practical skills in:
 
@@ -83,7 +86,9 @@ This structure keeps the raw data separate from the transformed data and makes t
 
 Duplicate records were identified and removed from the dataset to improve data quality and ensure that individual records were not counted multiple times during analysis.
 
-![Removing duplicate data](images/remove-duplicates.png)
+<p align="center">
+  <img src="remove-duplicates.png" alt="remove-duplicates" width="600">
+</p>
 
 ---
 
@@ -96,8 +101,10 @@ The original `Marital Status` column used abbreviated values:
 
 This was changed to make the dataset easier to interpret and present.
 
-![Changing marital status](images/marital-status1.png)
-![Changing marital status](images/marital-status2.png)
+<p align="center">
+  <img src="marital-status1.png" alt="marital-status1.png" width="500">
+  <img src="marital-status2.png" alt="marital-status2.png" width="500">
+</p>
 
 ---
 
@@ -110,8 +117,9 @@ The original `Gender` column contained abbreviated values:
 
 These values were standardised to improve readability.
 
-![Changing gender](images/gender.png)
-
+<p align="center">
+  <img src="gender.png" alt="gender.png" width="600">
+</p>
 ---
 
 ## 4. Create Age Brackets
@@ -134,7 +142,9 @@ The resulting groups were:
 
 Grouping customers into age brackets makes it easier to identify patterns that may not be obvious when analysing individual ages.
 
-![Creating age brackets](images/age-bracket.png)
+<p align="center">
+  <img src="age-bracket.png" alt="age-bracket.png" width="200">
+</p>
 
 ---
 
@@ -151,7 +161,7 @@ The main analyses included:
 * Bike purchases by age bracket
 * Bike purchases by individual age
 
-![Creating pivot tables](images/pivot-tables.png)
+![Creating pivot tables](pivot-tables.png)
 
 ---
 
@@ -172,7 +182,9 @@ The dashboard allows users to explore the data interactively using **Excel slice
 
 This allows the dashboard charts to update simultaneously when a filter is selected.
 
-![Inserting slicers](images/slicers.png)
+<p align="center">
+  <img src="slicers.png" alt="slicers.png" width="200">
+</p>
 
 ---
 
@@ -279,15 +291,14 @@ If I continued developing this project, I would:
 
 ```text
 📦 Bike-Sales-Excel-Project
- ├── 📊 Bike Sales Dashboard.xlsx
- ├── 🖼️ images
- │   ├── remove-duplicates.png
- │   ├── marital-status.png
- │   ├── gender.png
- │   ├── age-bracket.png
- │   ├── pivot-tables.png
- │   ├── slicers.png
- │   └── dashboard.png
+ ├── 📊 Bike Sales Dashboard.xls
+ ├── remove-duplicates.png
+ ├── marital-status.png
+ ├── gender.png
+ ├── age-bracket.png
+ ├── pivot-tables.png
+ ├── slicers.png
+ ├── dashboard.png
  └── 📄 README.md
 ```
 
@@ -301,6 +312,6 @@ If I continued developing this project, I would:
 ---
 
 ## 👤 Author
-
 **Queenie Chong**
-**GitHub: @Meowcky**
+
+**GitHub: Meowcky**
